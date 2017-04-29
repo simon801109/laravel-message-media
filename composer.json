@@ -1,0 +1,17 @@
+{
+    "name": "simon801109/laravel-sms-message-api",
+    "description": "給米瑟奇發送簡訊用",
+    "keywords": ["laravel" ,"sms"],
+    "authors": [
+        {
+            "name": "SimonWang",
+            "email": "a257140042@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Simon801109\\MessageSms\\": "src/"
+        }
+    }
+}
